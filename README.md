@@ -2,7 +2,6 @@
 - Backend Development
 - COMPSCI 335
 
-## 📅 Project Duration: 10.08.2024 - 13.09.2024  
 This repository contains two assignments completed as part of the **COMPSCI 335** course, focusing on **API development using C#**.
 
 ## 📝 Assignments Overview

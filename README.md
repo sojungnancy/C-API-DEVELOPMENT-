@@ -2,7 +2,7 @@
 - Backend Development
 - COMPSCI 335
 
-This repository contains two assignments completed as part of the **COMPSCI 335** course, focusing on **API development using C#**.
+This repository contains two assignments completed as part of the **COMPSCI 335** course, focusing on **API development using C# and .NET Framework**.
 
 ## 📝 Assignments Overview
 

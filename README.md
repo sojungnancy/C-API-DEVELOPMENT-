@@ -1,8 +1,10 @@
 # C# API Development 
 - Backend Development
 - COMPSCI 335
+  
 
-This repository contains two assignments completed as part of the **COMPSCI 335** course, focusing on **API development using C# and .NET 8 Framework**.
+> This repository contains **two assignments** completed as part of the **COMPSCI 335** course at the University of Auckland.  
+> The focus is on **API development** using **C# and .NET 8 Framework**, following the **MVC (Model-View-Controller) architecture** for structured and maintainable development.
 
 ## 📝 Assignments Overview
 
@@ -10,6 +12,7 @@ This repository contains two assignments completed as part of the **COMPSCI 335*
 - Developed **public APIs** that do not require authentication.
 - Implemented **CRUD operations** using REST principles.
 - Ensured **efficient data handling** and **error management**.
+- Used the **Model-View-Controller (MVC)** architecture for structured API design.
 
 ### 2️⃣ Assignment 2: Authenticated Web APIs  
 - Integrated **authentication and authorization** mechanisms.

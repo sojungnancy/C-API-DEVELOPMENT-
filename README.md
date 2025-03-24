@@ -1,6 +1,5 @@
 # C# API Development
 - Backend Development
-- COMPSCI 335
   
 
 > This repository contains **two assignments** completed as part of the **COMPSCI 335** course at the University of Auckland.  

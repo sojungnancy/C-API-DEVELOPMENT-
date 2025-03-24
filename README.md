@@ -2,7 +2,6 @@
 - Backend Development
   
 
-> This repository contains **two assignments** completed as part of the **COMPSCI 335** course at the University of Auckland.  
 > The focus is on **API development** using **C# and .NET 8 Framework**, following the **MVC (Model-View-Controller) architecture** for structured and maintainable development.
 
 ## 📝 Assignments Overview

@@ -1,4 +1,4 @@
-# C# API Development
+# NZSL (New Zealand Sign Language)
 - Backend Development
   
 
@@ -11,11 +11,13 @@
 - Implemented **CRUD operations** using REST principles.
 - Ensured **efficient data handling** and **error management**.
 - Used the **Model-View-Controller (MVC)** architecture for structured API design.
+- Developed public APIs for a sign language learning platform, including endpoints for retrieving logo, sign categories, individual signs, events, and guestbook entries.
 
 ### 2️⃣ Assignment 2: Authenticated Web APIs  
 - Integrated **authentication and authorization** mechanisms.
 - Implemented **JWT-based security** for user access control.
 - Enhanced API security with **role-based access**.
+- Implemented authenticated APIs with JWT for user registration, login, and logout, enabling secure user management.
 
 ## 🚀 Technologies Used
 - **C# / .NET Core**
